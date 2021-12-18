@@ -1,0 +1,15 @@
+body {
+    background-image: url("../images/img/map.jpg")
+}
+.fancy1 {
+    color:rgb(41, 120, 122)
+}
+.fancy2 {
+    font-style: oblique
+    }
+.fancy3 {
+    font-family:fantasy
+}
+.fancy4 {
+    font-weight: 700;
+}
